@@ -26,5 +26,6 @@ gradle-profiler --scenario-file performance.scenarios --project-dir . --benchmar
     * Attempt1: Update org.apache.maven.plugins:maven-compiler-plugin v3.1.0
     * Attempt2: Update org.apache.maven.plugins:maven-compiler-plugin v1.11.0
     * Attempt3: Comment the configuration
+    * Attempt4: `.. --maven 3.1`
     * Solution: TODO:
 * Open the .html generated under '/profile-out-12'
