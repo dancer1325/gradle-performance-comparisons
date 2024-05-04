@@ -3,8 +3,9 @@
 This repository contains several synthetic projects that are used to benchmark Gradle against other build tools.
 
 ## Pre-requisites
-
-Follow the instructions required to install the [Gradle profiler](https://github.com/gradle/gradle-profiler).
+* Follow the instructions required to install the [Gradle profiler](https://github.com/gradle/gradle-profiler)
+  * `brew install gradle-profiler`
+  * ...
 
 ## Available projects
 
