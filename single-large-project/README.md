@@ -24,6 +24,7 @@ gradle-profiler --scenario-file performance.scenarios --project-dir . --benchmar
     * Solution: `gradle-profiler` was duplicated
   * Problem2: "Target option 1.5 is no longer supported. Use 1.6 or later"
     * Attempt1: Update org.apache.maven.plugins:maven-compiler-plugin v3.1.0
-    * Attempt1: Update org.apache.maven.plugins:maven-compiler-plugin v1.11.0
+    * Attempt2: Update org.apache.maven.plugins:maven-compiler-plugin v1.11.0
+    * Attempt3: Comment the configuration
     * Solution: TODO:
 * Open the .html generated under '/profile-out-12'
