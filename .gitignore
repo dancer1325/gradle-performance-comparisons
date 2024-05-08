@@ -3,3 +3,6 @@ build
 gradle-user-home
 .gradle
 .idea
+/api-vs-impl-small/gradle/wrapper/
+/api-vs-impl-small/gradlew
+/api-vs-impl-small/gradlew.bat
