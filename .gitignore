@@ -6,3 +6,5 @@ gradle-user-home
 /api-vs-impl-small/gradle/wrapper/
 /api-vs-impl-small/gradlew
 /api-vs-impl-small/gradlew.bat
+/exclude-merging/gradle/wrapper/gradle-wrapper.jar
+/exclude-merging/gradle/wrapper/gradle-wrapper.properties
